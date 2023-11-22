@@ -1,6 +1,6 @@
-# Tower Defense Game en Java (Nom de Votre Jeu)
+# Tower Defense Game en Java (Brutal war)
 
-![Screenshot du jeu](screenshot.png)
+![Brutal war](./assets/Capture%20d’écran%202023-11-21%20à%2015.28.07.png)
 
 ## Description
 
